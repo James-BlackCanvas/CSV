@@ -1,0 +1,28 @@
+Fleet,Asset Name,Asset Status,Agent Status,Last Seen
+Fleet_A,Fleet_A_Asset_01,Online,Online,2025-04-16 12:48:44
+Fleet_A,Fleet_A_Asset_02,Online,Offline,2025-04-16 13:54:44
+Fleet_A,Fleet_A_Asset_03,Online,Online,2025-04-16 13:12:44
+Fleet_A,Fleet_A_Asset_04,Online,Online,2025-04-16 13:38:44
+Fleet_A,Fleet_A_Asset_05,Online,Online,2025-04-16 14:05:44
+Fleet_A,Fleet_A_Asset_06,Offline,Offline,2025-04-16 13:26:44
+Fleet_A,Fleet_A_Asset_07,Online,Online,2025-04-16 13:20:44
+Fleet_B,Fleet_B_Asset_01,Online,Online,2025-04-16 13:31:44
+Fleet_B,Fleet_B_Asset_02,Offline,Online,2025-04-16 14:19:44
+Fleet_B,Fleet_B_Asset_03,Online,Offline,2025-04-16 13:32:44
+Fleet_B,Fleet_B_Asset_04,Online,Online,2025-04-16 13:32:44
+Fleet_B,Fleet_B_Asset_05,Online,Online,2025-04-16 12:44:44
+Fleet_B,Fleet_B_Asset_06,Online,Online,2025-04-16 14:19:44
+Fleet_B,Fleet_B_Asset_07,Online,Online,2025-04-16 14:12:44
+Fleet_C,Fleet_C_Asset_01,Online,Online,2025-04-16 13:33:44
+Fleet_C,Fleet_C_Asset_02,Online,Online,2025-04-16 13:16:44
+Fleet_C,Fleet_C_Asset_03,Online,Online,2025-04-16 12:26:44
+Fleet_C,Fleet_C_Asset_04,Online,Offline,2025-04-16 12:31:44
+Fleet_C,Fleet_C_Asset_05,Offline,Online,2025-04-16 12:45:44
+Fleet_C,Fleet_C_Asset_06,Online,Offline,2025-04-16 12:46:44
+Fleet_C,Fleet_C_Asset_07,Offline,Online,2025-04-16 12:30:44
+
+Fleet,Total_Assets,Online_Assets,Offline_Assets,Online_Agents,Offline_Agents
+Fleet_A,7,6,1,5,2
+Fleet_B,7,6,1,6,1
+Fleet_C,7,5,2,5,2
+TOTAL,21,17,4,16,5
