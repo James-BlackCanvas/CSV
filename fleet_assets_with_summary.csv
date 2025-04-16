@@ -20,9 +20,3 @@ Fleet_C,Fleet_C_Asset_04,Online,Offline,2025-04-16 12:31:44
 Fleet_C,Fleet_C_Asset_05,Offline,Online,2025-04-16 12:45:44
 Fleet_C,Fleet_C_Asset_06,Online,Offline,2025-04-16 12:46:44
 Fleet_C,Fleet_C_Asset_07,Offline,Online,2025-04-16 12:30:44
-
-Fleet,Total_Assets,Online_Assets,Offline_Assets,Online_Agents,Offline_Agents
-Fleet_A,7,6,1,5,2
-Fleet_B,7,6,1,6,1
-Fleet_C,7,5,2,5,2
-TOTAL,21,17,4,16,5
