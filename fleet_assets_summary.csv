@@ -1,0 +1,5 @@
+Fleet,Total_Assets,Online_Assets,Offline_Assets,Online_Agents,Offline_Agents
+Fleet_A,7,6,1,7,0
+Fleet_B,7,5,2,6,1
+Fleet_C,7,6,1,6,1
+TOTAL,21,17,4,19,2
